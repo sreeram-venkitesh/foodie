@@ -3,12 +3,12 @@
 require_relative "lib/foodie/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "foodie"
+  spec.name          = "foodie_sreeram"
   spec.version       = Foodie::VERSION
   spec.authors       = ["Sreeram Venkitesh"]
   spec.email         = ["sreeram.venkitesh@bigbinary.com"]
 
-  spec.summary       = "A gem to process food"
+  spec.summary       = "My version of the foodie gem tutorial"
   spec.description   = "foodie is a gem that can be used to classify foods into different categories as per your liking"
   spec.homepage      = "https://github.com/sreeram-venkitesh/foodie"
   spec.required_ruby_version = ">= 2.4.0"
